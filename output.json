@@ -1,0 +1,288 @@
+[
+    {
+        "Title": "Content Strategy Manager, Computer Science & Technology",
+        "Location": "United States",
+        "Description": "We are seeking a strategic, data-driven, and entrepreneurial strategist for the Computer Science & Tech domain. This person should have extensive knowledge of the ecosystem of skills and technologies around Computer Science, Software Engineering, and a broad curiosity about technology. In particular the ideal candidate can, with minimal research, discuss curriculum strategy with industry experts on topics such as software engineering, cybersecurity, computer programming, mobile/web development, etc. This person will use internal data and market research to identify promising areas in which Coursera should create content related to Computer Science & Tech broadly, -- emphasis on software engineering. Bonus if you have a background in physical engineering. While part of the role involves identifying these key areas of strategic investment, another meaty part of the job will involve consultation to companies and universities to help their content come to life. This consultation will be done in coordination with our Partnerships Managers, and will range in scope from helping to identify specific topics in Computer Science & Tech, to reviewing proposed curricula, to creating multi-year content plans that cut across departments and content formats (e.g., Courses, Degrees). This person will also work cross-functionally with other teams that are helping to create and position content on the platform, such as our Services, Marketing, and Product teams. In short, you should have a deep knowledge of Computer Science & Tech, must be very comfortable using data to make strategic recommendations, and also be passionate about education in technical fields.",
+        "Responsibilities": [
+            "Identify in-demand jobs and skills in Computer Science & Tech, and translate them into relevant content and credentials to meet Comp Sci/Info Tech learners needs",
+            "Consult with companies and universities (via Partnerships Managers) on strategic content opportunities in Computer Science & Tech",
+            "Curate and analyze Tech catalogs",
+            "Use data and domain knowledge to ensure the overall health of Computer Science & Tech at Coursera",
+            "Present internally and externally to knowledge area experts and people without a background in Computer Science & Tech on your recommendations"
+        ],
+        "Basic Qualifications": [
+            "Bachelor's degree in Computer Science, Software Engineering or other tech related discipline",
+            "5+ years of experience with a breadth of topics related to Computer Science & Technology",
+            "Demonstrated history in data analysis or research, using Excel and/or other tools",
+            "Possesses strategic thinking skills"
+        ],
+        "Preferred Qualifications": [
+            "Masters degree in Computer Science & Tech or other related fields preferred",
+            "Experience with breaking down complex Computer Science & Tech topics for beginner to advanced learners",
+            "Experience analyzing and curating tech catalogs",
+            "Excellent written and verbal communication skills",
+            "Experience with EdTech strategy a plus",
+            "Experience and knowledge in the areas of cybersecurity, traditional IT architecture, and physical engineering (e.g. electrical, mechanical) are a plus"
+        ]
+    },
+    {
+        "Title": "Engineering Manager",
+        "Location": "Bulgaria",
+        "Description": "We are looking for someone whos eligible to work in Bulgaria with an interest in managing a talented team of Frontend, Backend, and Infrastructure engineers.They should have at least 3 years of professional experience leading and managing engineering teams.The team is responsible for both the authoring and learning experience for Guided Projects, a rapidly expanding short form content experience at Coursera.",
+        "Responsibilities": [
+            "Mentoring: Acting as a role model, aiding in career development conversations, inspiring engineers, providing feedback.",
+            "Hiring: Building a vision of team skill sets, identifying key growth areas, managing the hiring pipeline.",
+            "Advising: Providing technical suggestions to engineers as they grow into engineering leaders in their product work.",
+            "Product enablement: Acting as a curator of a vision, discussing needs with stakeholders, prioritizing, driving forward on key initiatives, running sprint planning meetings, and standups.",
+            "Platform leadership: balancing effective product feature delivery against managing tech debt",
+            "Mediating: Investigating interpersonal issues, facilitating crucial conversations."
+        ],
+        "Basic Qualifications": [
+            "Bachelors in computer science or relevant degree OR 3+ years of experience as an engineering IC",
+            "Leadership (integrity, transparency, inspiration)",
+            "Emotional intelligence (empathy, humility, patience, communication skills)",
+            "Problem-solving (creativity, technical rigor, intelligence)",
+            "Excellence in ambiguous and complex situations (clarity of vision, boldness, grit)",
+            "Experience (5+ years in product development or a related field, 3+ years in a management position)",
+            "Strong communication skills in English"
+        ],
+        "Preferred Qualifications": [
+            "Experience balancing effective product feature delivery against managing tech",
+            "Experience managing a team owning both product features and the underlying infrastructure"
+        ]
+    },
+    {
+        "Title": "Senior Software Engineer, Back End",
+        "Location": "Bulgaria",
+        "Description": "We are looking for someone whos eligible to work in Bulgaria with an interest in horizontally scalable systems and in working with Go. You should have at least 5 years of professional experience building web services (REST, Websockets, Pub/Sub, SQL) and you should be keen to write simple, testable, robust, and maintainable code. The ideal candidate will play a key role in making architectural and design decisions. Good communication skills are a must -- we are looking for a team player, not a rock-star.",
+        "Responsibilities": [
+            "Design and implement scalable systems and infrastructures",
+            "Work closely with cross functional teams in finding a solution that fits well with the users needs",
+            "Setup monitoring and testing of your APIs and services to better understand real time health of your products",
+            "Being comfortable making trade-offs between cost / complexity / functionality",
+            "Being an active contributor to discussions",
+            "Being passionate about helping teammates develop technical excellence"
+        ],
+        "Basic Qualifications": [
+            "Business programming fundamentals",
+            "At least 5+ years of professional experience building web services (REST, Websockets, Pub/Sub, SQL)",
+            "Experience with statically typed languages. We use Go, but experience with C/C++ or any other statically typed languages will suffice",
+            "A commitment to user focus, collaborative problem solving and building quality products is essential",
+            "Business communication skills in English"
+        ],
+        "Preferred Qualifications": [
+            "Experience with Go",
+            "Basic understanding of Linux",
+            "Exposure to AWS",
+            "Experience with horizontally scalable code"
+        ]
+    },
+    {
+        "Title": "Sr Software Engineer - Application Architecture",
+        "Location": "Canada",
+        "Description": "",
+        "Responsibilities": [
+            "Collaborate with internal engineering teams to understand their needs and come up with solutions that can enhance development and operation efficiency at scale.",
+            "Work with architects and engineers to recommend, develop and review technical designs.",
+            "Lead the design, development, testing, and deployment of core features.",
+            "Mentor and guide fellow remote-first engineers to help them improve their technical ability and become more effective software engineers."
+        ],
+        "Basic Qualifications": [
+            "Bachelor's degree in Computer Science or equivalent work experience.",
+            "6+ years of experience working in a relevant software engineering role.",
+            "Expertise in designing highly scalable and performant micro-services using Spring Boot.",
+            "Experience serving as technical lead throughout the full SDLC, from conception, architecture definition, detailed design, scoping, planning, implementation, testing to documentation, delivery, and maintenance.",
+            "Exceptional analytical and problem-solving skills with a keen, inquisitive eye for detail along with a passion for high-quality standards."
+        ],
+        "Preferred Qualifications": [
+            "Master's degree in Computer Science.",
+            "Experience working in an infrastructure/platform team.",
+            "Familiarity with AWS offerings such as EC2, ECS, and Lambda.",
+            "Hands-on experience with Gradle."
+        ]
+    },
+    {
+        "Title": "Equity Accountant",
+        "Location": "United States",
+        "Description": "Financial management is crucial to the performance and success of any company. The roles and responsibilities of the Coursera Finance team include accounting, financial reporting, analysis, planning, budgeting, and compliance. Problem solvers at heart, this team works to fuel Courseras growth by developing creative solutions in response to accounting and finance challenges.",
+        "Responsibilities": [
+            "Assist in transaction processing (option exercises, RSU releases, ESPP purchases and grants) using ETrades EquityEdge Online system",
+            "Assist with aspects of our global equity programs and coordinate with Finance, HR, Tax and Payroll teams, providing accurate and timely information regarding equity transactions",
+            "Provide information for financial statement footnote disclosures, reconcile common stock, additional paid in capital, and related employee taxes; prepare monthly and quarterly equity roll forward",
+            "Prepare Section 16 reports (Forms 3, 4 and 5) with the SEC",
+            "Provide regular communication to employees regarding equity programs, resolving questions, issues or concerns to support employee understanding of equity awards and company programs and policies",
+            "Ensure SOX compliance and controls on all aspects of the equity plan including documentation, testing and audit support",
+            "Work with transfer agent for timely DWAC and reconciliation of shares"
+        ],
+        "Basic Qualifications": [
+            "2+ years of experience in stock plan administration, including experience working at a public company",
+            "Experience with Equity Edge/ETrade (Equity System) and direct experience processing equity transactions",
+            "Experience with ESPP",
+            "Advanced skills in Excel"
+        ],
+        "Preferred Qualifications": [
+            "Accounting and stock compensation expense background",
+            "Certified equity professional preferred",
+            "System implementation and integrations experience preferred",
+            "Experience with global equity plans and supporting an equity administration system",
+            "Experience with international equity management",
+            "Experience with Form filings (Form 3, 4, and 5)"
+        ]
+    },
+    {
+        "Title": "Senior Data Scientist, Analytics",
+        "Location": "Canada",
+        "Description": "At Coursera, our Data Science team is helping to build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.",
+        "Responsibilities": [
+            "Evaluate the success of key product initiatives (e.g. determining whether new product listing pages better serve career switchers or measuring the success of efforts to reduce contact rate by improving the learner payment flow)",
+            "Estimate the potential impact of proposed projects in order to inform other teams prioritization decisions",
+            "Develop our understanding of Courseras products, business, and learners by analyzing learner behavior to uncover patterns and identify opportunities for improvement",
+            "Work closely with data engineering and operations teams to ensure that new projects and products are launched with clear instrumentation to support experimentation and measurement plans",
+            "Partner with other data scientists to develop measurement plans for new data product launches and to share context from different areas of the business and build a more complete and consistent understanding of what data tells us about our learners"
+        ],
+        "Basic Qualifications": [
+            "4+ years of experience using data to advise product, business, or services teams"
+        ],
+        "Preferred Qualifications": [
+            "Background in applied math, computer science, statistics, or a related technical field",
+            "Excellent business intuition, cross-functional communication, and project management",
+            "Experiencing scoping and leading collaborative projects across multiple data scientists",
+            "Strong applied statistics and data visualization skills",
+            "Proficient with at least one scripting language (e.g. Python)",
+            "Proficient with at least one statistical software package (e.g. R, NumPy/SciPy/Pandas)",
+            "Proficient with relational databases and SQL",
+            ""
+        ]
+    },
+    {
+        "Title": "Senior Data Scientist - Insight",
+        "Location": "Canada",
+        "Description": "At Coursera, our Data Science team is helping to build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.",
+        "Responsibilities": [
+            "Develop our understanding of Courseras products, business, and learners by analyzing learner and enterprise admin behavior to uncover patterns and identify opportunities for improvement",
+            "Partner with product and business leadership, using data to influence strategy across different product and business lines",
+            "Distill insights from complex data and/or data product results; build efficient and scalable insights",
+            "Communicate findings clearly to both technical and non-technical audiences.",
+            "Partner with other data scientists to develop measurement plans for new data product launches and to share context from different areas of the business and build a more complete and consistent understanding of what data tells us about our learners"
+        ],
+        "Basic Qualifications": [
+            "BA or background in economics, statistics, applied math, or a related technical field",
+            "4+ years of experience working with data in a professional setting",
+            "2+ years of demonstrated history applying statistical inference techniques to business questions",
+            "Demonstrated history of using at least one scripting or statistical language (e.g. R, Python, Julia, MATLAB, etc.)",
+            "Demonstrated history of using relational databases and SQL"
+        ],
+        "Preferred Qualifications": [
+            "2+ years of experience using data to advise product or business teams",
+            "MA or Ph.D. in economics, statistics, applied math, or a related technical field",
+            "Experience in causal inference methodologies",
+            "1+ years of experience providing technical mentorship to data scientists"
+        ]
+    },
+    {
+        "Title": "Senior Machine Learning Scientist - Search",
+        "Location": "United States",
+        "Description": "At Coursera, our Data Science team is helping build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.",
+        "Responsibilities": [
+            "Design, build and deploy state-of-the-art ML/AI models to improve search relevance, ranking and personalization experience.",
+            "Leverage large-scale data and ML/AI techniques to improve search relevance and ranking including indexing, query understanding, retrieval and ranking. Provide the user with results that best satisfies their intent and information seeking needs.",
+            "Work closely with Engineering team to establish a vision and support the development of an scalable ML infrastructure",
+            "Partner with Product partner and cross-functional team to understand customer behavior and incorporate the information into advancing your models",
+            "Partner with Product stakeholders to define a long-term AI vision for search relevance, ranking and personalization domains and help the Product stakeholders with the roadmap planning",
+            "Provide technical mentorship to junior ML Scientists in the team."
+        ],
+        "Basic Qualifications": [
+            "A college degree in Computer Science, Information Retrieval, Machine Learning, Mathematics or other related fields",
+            "4+ years of industrial experience developing large-scale ML/AI models, applications, pipelines and architecture in search ranking and ML/AI personalization supporting search applications.",
+            "3+ years of demonstrated experience working with product teams and other cross-functional teams.",
+            "Excellent knowledge in search and information retrieval fundamentals including indexing, query understanding, retrieval and ranking",
+            "Strong proficiency in data structures, algorithms and online experimentation.Strong proficiency in at least one modern programming language such as Python, Java, C, C++. Proficiency in SQL.",
+            "Experience with distributed processing architecture and ML/data workflow management platform (Spark, Databricks, Airflow, Kubeflow, etc)"
+        ],
+        "Preferred Qualifications": [
+            "Ph.D. in Computer Science, Information Retrieval, Machine Learning, Mathematics or other related fields.",
+            "Experience in software system design.",
+            "Experience working with cloud-based solutions, especially AWS."
+        ]
+    },
+    {
+        "Title": "Staff Machine Learning Engineer",
+        "Location": "Canada",
+        "Description": "At Coursera, our Data team is helping build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the ML/AI models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data team are positioned to make that vision a reality.",
+        "Responsibilities": [
+            "Work very closely with ML scientists to help with model deployment in production, and solve engineering pain-points by building scalable and general-use platforms",
+            "Build scalable and reliable infrastructure and pipelines for data/feature processing and storage and also scalable training and evaluation infrastructure and pipelines to accelerate model development",
+            "Automate ML workflows to enhance productivity across training, evaluation, testing, and results generation",
+            "Drive handshake and alignment with Eng on data/ML product architecture, ownership and the operation model",
+            "Partner with cross functional stakeholders to define a long-term vision for scaling ML/AI applications in production and help teams with their roadmap plannings",
+            "Provide technical mentorship to junior ML Engineers and act as a technical leader for the ML engineering domain"
+        ],
+        "Basic Qualifications": [
+            "Highly skilled with Java development, Python and SQL/MySQL.",
+            "Highly skilled with strong proficiency in ML ops with experience in building large-scale ML applications, services, pipelines and architecture",
+            "Solid understanding and experience in system design of ML systems (design pattern, OOD, architecture, modules, interfaces, etc)",
+            "Highly skilled with distributed processing architecture and ML/data workflow management platform (Spark, Databricks, Airflow, Kubeflow, MLflow etc)",
+            "Experience with containerization such as Docker and Kubernates"
+        ],
+        "Preferred Qualifications": [
+            "Solid understanding in machine learning theory and practice, and experience using machine learning tools (Scikit-Learn, TensorFlow, Weka etc.)",
+            "Solid understanding and experience working with cloud-based solutions, especially AWS",
+            "Knowledge in c++ or c# would be also preferred.",
+            "Experience with CI/CD pipelines, integrated tests and test-driven development",
+            "Experience with microservice architectures such as RESTful web-services"
+        ]
+    },
+    {
+        "Title": "Staff Machine Learning Scientist - Recommendation",
+        "Location": "United States",
+        "Description": "At Coursera, our Data Science team is helping build the future of education through data-driven decision making and data-powered products. We drive product and business strategy through measurement, experimentation, and causal inference. We define, develop, and launch the models and algorithms that power content discovery, personalized learning, and machine-assisted teaching and grading. We believe the next generation of teaching and learning should be personalized, accessible, and efficient. With our scale, data, technology, and talent, Coursera and its Data Science team are positioned to make that vision a reality.",
+        "Responsibilities": [
+            "Develop and deploy state-of-the-art recommendation, search ranking and personalization ML/AI models",
+            "Use statistical and optimization techniques to build high performing recommendation, search ranking and personalization models",
+            "Partner with UX research, UX design and Product teams to understand customer behavior and incorporate the information into advancing your models",
+            "Partner with Product stakeholders to define a long-term AI vision for the recommendation, search ranking and personalization domains and help the Product stakeholders with the roadmap planning",
+            "Partner with Engineering team to establish a vision and support the development of an scalable ML infrastructure",
+            "Provide technical mentorship to junior ML Scientists and act as a technical leader for recommendation, search ranking and personalization domains"
+        ],
+        "Basic Qualifications": [
+            "A college degree in Computer Science, Software Engineering, Mathematics or other related fields",
+            "5-7 + years of industrial experience developing advanced ML/AI models in one or more of the following areas: recommender systems, search ranking, and personalization applications",
+            "3+ years of demonstrated experience independently balancing priorities and managing projects across multiple stakeholders",
+            "Strong proficiency in machine learning and deep learning technologies particularly with experience building large-scale ML applications, pipelines, model architecture design, training in recommendation and ranking",
+            "Strong Proficiency in data structures, algorithms and online experimentation. Proficiency in SQL and at least one programming language such as Python or Java.",
+            "Experience with distributed processing architecture and ML/data workflow management platform (Spark, Databricks, Airflow, Kubeflow, etc)",
+            "Excellent communicator - able to effectively deliver findings and recommendations to non-technical stakeholders in a clear and compelling fashion"
+        ],
+        "Preferred Qualifications": [
+            "Ph.D. in Computer Science, Software Engineering, Mathematics or other related fields.",
+            "Experience in software system design.",
+            "Experience working with cloud-based solutions, especially AWS.",
+            "Knowledge in c++ or c# would be also preferred."
+        ]
+    },
+    {
+        "Title": "Enterprise Account Executive - Public Sector",
+        "Location": "United States",
+        "Description": "The Enterprise Solutions team serves global organizations, including leading companies, governments, and nonprofits, who seek to upskill or retrain their workforce with the worlds best education. In this role, you will be supporting the Coursera for Government sector of the Enterprise Solutions team. As part of our team, you will play a key role in increasing access to world-class education for government agencies and the people they serve. Specifically, this role will focus on growing our partnerships with Federal Government Agencies.\nSuccessful candidates will be passionate, entrepreneurial sales professionals who will prospect, develop, and close partnerships with United States federal government agencies, including the potential of territory coverage for both civilian and defense sectors. You should have experience with enterprise sales/partnerships in the public sector and be interested in working for a social enterprise with a mission to help people reach their full potential through access to the worlds best education.",
+        "Responsibilities": [
+            "Prospect new mid-market Public Sector/Government opportunities in alignment with Courseras high-level strategic priorities",
+            "Use in-depth knowledge of industry trends and data-driven insights to consult and engage prospective customers",
+            "Develop and execute on sales targets, hitting (and exceeding) revenue/growth goals and sharing learning across the organization.",
+            "Balance your efforts effectively between pipeline generation, outbound prospecting, and leading complex sales cycles from start to finish.",
+            "Be a voice for Courseras public sector partners, sharing customer-driven insights across Coursera, including product, engineering, business development, and legal",
+            "Perform various sales and marketing operations tasks, including managing the sales pipeline with Courseras CRM tool"
+        ],
+        "Basic Qualifications": [
+            "2+ years experience selling solutions within the Federal Civilian and/or Defense sectors."
+        ],
+        "Preferred Qualifications": [
+            "5+ years public sector sales experience at a SaaS company",
+            "Superior written and verbal communication skills, strong analytical and creative problem solving abilities, excellent interpersonal skills, organizational, and operational skills",
+            "A record of past achievement, including demonstrated ability to close complex, 7-figure deals and the ability to spearhead new strategic initiatives and manage senior-level external stakeholders",
+            "Entrepreneurial drive and comfort working in ambiguous, quickly-changing environments",
+            "Ability to listen well, hold your own in meetings with senior executive representatives from prospective partners, and speak as a thought-leader in this space",
+            "Extensive network in the North American public sector L&D, HR and/or IT space.",
+            "Experience working in the government, military, non-profit, or workforce development spaces a plus"
+        ]
+    }
+]
